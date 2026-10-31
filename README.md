@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/license/Locietta/xanmod-kernel-WSL2)
 ![version](https://img.shields.io/github/v/release/Locietta/xanmod-kernel-WSL2)
 
-An **unofficial** [Aurora Silicon](https://gitlab.com/aurora-silicon/linux) kernel port for **Windows Subsystem for Linux 2 (WSL2) x86_64**, featuring:
+An **unofficial** [Aurora Silicon](https://gitlab.com/aurora-silicon/linux) kernel port for **Windows Subsystem for Linux 2 (WSL2) x86_64** based on linux 7.3, featuring:
 
 - **Microsoft's dxgkrnl** patches for GPU support
 - **Compiled with Clang + ThinLTO** for additional optimizations
